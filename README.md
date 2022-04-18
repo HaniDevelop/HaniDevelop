@@ -1,5 +1,5 @@
 - 🏳️‍🌈 Hi, I’m @HaniDevelop (Hani Al-shafei) - MS in CS from University of Illinois - Springfield
-- 👀 I’m interested in a position in software development - currently looking
+- 👀 I’m interested in a position in software development - currently looking for a position
 - 🌱 I’m learning about cloud-based Databases (Oracle Database and Azure) 
 - 📫 Reach me via email: halshafei15@gmail.com
 
