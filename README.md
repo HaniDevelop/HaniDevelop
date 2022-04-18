@@ -10,7 +10,7 @@
 - Java
 - Microsoft SQL Server
 - R
-- HTML/CSS/JAVASCRIPT
+- HTML/CSS/JavaScript
 
 <!---
 HaniDevelop/HaniDevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
