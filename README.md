@@ -1,16 +1,16 @@
-- 🏳️‍🌈 Hi, I’m @HaniDevelop (Hani Al-shafei) - MS in CS from University of Illinois - Springfield
+- 🏳️‍🌈 Hi, I’m @HaniDevelop (Hani Al-shafei) - MS in CS from University of Illinois at Springfield
 - 🔥 Strong OOP capabilities (licensed teacher of college-level coursework in CS)
 - 👀 I’m interested in a position in software development - currently looking
-- 🌱 I’m learning about cloud-based Databases (Oracle Database and Azure) at the moment!
+- 🌱 I’m learning about cloud-based Databases (AWS and Azure) at the moment!
 - 📫 Reach me via email: halshafei15@gmail.com
 
 # Technologies:
 
 - C#/.NET (WPF, ADO.NET, ASP.NET, LINQ)
-- Java
-- Microsoft SQL Server
+- Java (SPRING) 
+- Microsoft SQL Server, Oracle
 - R
-- HTML/CSS/JavaScript
+- HTML/CSS/JavaScript (REACT, BOOTSTRAP, NODE.JS)
 
               
 
