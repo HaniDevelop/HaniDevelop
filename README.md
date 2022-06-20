@@ -6,11 +6,11 @@
 
 # Technologies:
 
-- C#/.NET (WPF, ADO.NET, ASP.NET, LINQ)
+- C#/.NET (ADO.NET, ASP.NET, LINQ) - Full Stack including Web APIs, Web Forms, WPF
 - Java (SPRING) 
 - Microsoft SQL Server, Oracle
 - R
-- HTML/CSS/JavaScript (REACT, BOOTSTRAP, NODE.JS)
+- HTML/XML/CSS/JavaScript (REACT, BOOTSTRAP, NODE.JS)
 
               
 
