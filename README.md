@@ -1,5 +1,5 @@
 - 🏳️‍🌈 Hi, I’m @HaniDevelop (Hani Al-shafei) - MS in CS from University of Illinois at Springfield
-- 👨‍💻 Professional experience with custom enterprise software (ERP, QMS, ES)
+- 👨‍💻 Professional experience developing custom enterprise software (ERP, QMS, ES)
 - 🔥 Strong OOP capabilities (licensed teacher of college-level coursework in CS)
 - 📫 Reach me via email: halshafei15@gmail.com
 
